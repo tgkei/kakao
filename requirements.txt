@@ -1,4 +1,5 @@
 fire
 tqdm
 numpy
+pandas
 implicit
