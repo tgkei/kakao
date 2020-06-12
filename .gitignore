@@ -9,3 +9,9 @@ example/
 
 #vim config
 .vim/
+
+#results json
+results.json
+
+#ignore data folder
+data/
