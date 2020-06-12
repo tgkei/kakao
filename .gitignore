@@ -4,9 +4,6 @@ __pycache__/
 # ipython checkpoint
 .ipynb_checkpoints
 
-#example code
-example/
-
 #vim config
 .vim/
 
